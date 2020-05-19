@@ -11,7 +11,5 @@
         { "id": "Inventory", "minVersion": "1.1.0" },
         { "id": "WoodAndStone", "minVersion": "1.0.0" }
     ],
-    "isServerSideOnly": false,
-    "isGameplay": true,
-    "defaultWorldGenerator": "CoreWorlds:FacetedPerlin"
+    "isServerSideOnly": false
 }
