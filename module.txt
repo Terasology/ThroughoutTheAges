@@ -5,11 +5,11 @@
     "displayName": "Throughout the Ages",
     "description": "Develop your skills and tools Through the Ages from stone to copper and beyond",
     "dependencies": [
-        { "id": "CopperAndBronze", "minVersion": "1.1.0" },
+        { "id": "CopperAndBronze", "minVersion": "1.1.1" },
         { "id": "CoreWorlds", "minVersion": "1.1.0" },
         { "id": "Health", "minVersion": "1.0.0" },
         { "id": "Inventory", "minVersion": "1.1.0" },
-        { "id": "WoodAndStone", "minVersion": "0.1.0" }
+        { "id": "WoodAndStone", "minVersion": "1.0.0" }
     ],
     "isServerSideOnly": false,
     "isGameplay": true,
